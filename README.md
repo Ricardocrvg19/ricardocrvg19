@@ -18,6 +18,6 @@ My name's Ricardo! I was born in Rio de Janeiro - Brazil. I'm :two::six: years o
    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="ts-logo">
    <br>
    <br>
-   [![ricardocrvg19 GitHub stats](https://github-readme-stats.vercel.app/api?username=ricardocrvg19)](https://github.com/anuraghazra/github-readme-stats)
+
   
 
