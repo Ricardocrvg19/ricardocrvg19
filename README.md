@@ -1,6 +1,6 @@
 ### Hi there 👋
 <h3>
-My name's Ricardo! I was born in Rio de Janeiro - Brazil. I'm :two::six: years old, my favorite hobbie is watching my soccer team :soccer: (Vasco da Gama) playing at the stadium. 
+My name's Ricardo! I was born in Rio de Janeiro - Brazil. I'm :two::six: years old.
 </h3>
 <br>
 <h2>
