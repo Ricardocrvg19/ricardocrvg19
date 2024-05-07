@@ -24,8 +24,12 @@ My name's Ricardo! I was born in Rio de Janeiro - Brazil. I'm :two::six: years o
 <a href=https://www.linkedin.com/in/ricardo-martins-r2730/> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin-image"> </a>
 <br>
 <br>
-![Ricardo`s GitHub stats] (https://github-readme-stats.vercel.app/api?username=Ricardocrvg19&show_icons=true&theme=radical)
+
 ![Ricardo GitHub stats](https://github-readme-stats.vercel.app/api?username=ricardocrvg19&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ricardocrvg19&layout=donut)](https://github.com/ricardocrvg19/github-readme-stats)
+
+
 
 
   
