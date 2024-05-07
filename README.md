@@ -18,6 +18,15 @@ My name's Ricardo! I was born in Rio de Janeiro - Brazil. I'm :two::six: years o
    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="ts-logo">
    <br>
    <br>
+<h3>Contact wiht me :smiley:</h3>
+<a href=https://web.whatsapp.com/> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="wpp-image"> </a>
+<br>
+<a href=https://www.linkedin.com/in/ricardo-martins-r2730/> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin-image"> </a>
+<br>
+<br>
+![Ricardo`s GitHub stats] (https://github-readme-stats.vercel.app/api?username=Ricardocrvg19&show_icons=true&theme=radical)
+![Ricardo GitHub stats](https://github-readme-stats.vercel.app/api?username=ricardocrvg19&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=radical)
+
 
   
 
