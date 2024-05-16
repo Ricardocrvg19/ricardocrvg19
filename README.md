@@ -1,3 +1,6 @@
+![atlz-git-hub](https://github.com/Ricardocrvg19/ricardocrvg19/assets/160973847/8e370954-42bf-43bc-99de-f820074179e3)
+
+
 ### Hi there 👋
 <h3>
 My name's Ricardo! I was born in Rio de Janeiro - Brazil. I'm :two::six: years old.
