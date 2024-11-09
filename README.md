@@ -1,4 +1,4 @@
-![atlz-git-hub](https://github.com/Ricardocrvg19/ricardocrvg19/assets/160973847/8e370954-42bf-43bc-99de-f820074179e3)
+![atlz-git-hub](https://raw.githubusercontent.com/Ricardocrvg19/ricardocrvg19/ff76443356ccb963d5081080e907ee57a48c59df/git-atlz-profile.jpeg)
 
 
 ### Hi there 👋
