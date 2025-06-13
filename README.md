@@ -3,7 +3,7 @@
 
 ### Hi there 👋
 <h3>
-My name's Ricardo! I was born in Rio de Janeiro - Brazil. I'm :two:7️⃣: years old.
+My name's Ricardo! I was born in Rio de Janeiro - Brazil. I'm :two🎱: years old.
 </h3>
 <br>
 <h2>
