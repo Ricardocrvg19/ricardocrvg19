@@ -3,14 +3,21 @@
 
 ### Hi there 👋
 <h3>
-My name's Ricardo! I was born in Rio de Janeiro - Brazil. I'm 2️⃣8️⃣ years old.
+  My name is Ricardo. I have a background in Business Administration and I'm currently transitioning into a career as a Full Stack Developer.
 </h3>
 <br>
 <h2>
-  On december 25, 2023 Web development came to me (yeah, at the christmas :sweat_smile:), and since then I'm in love with programming!
+In 2022, I had my first experience in the tech world when I took part in the domain migration of Perinatal to Rede D’Or. By the end of 2023, I discovered programming and quickly became passionate about the profession.
+
+Since then, I’ve been fully dedicated to learning and growing in the field. Today, I build my own Full Stack projects using React and Node.js, and I’m truly enjoying every step of this journey of creating solutions through code!
+
+I’ve also been applying many skills from my background in Business Administration to my development workflow—such as a strong focus on results, business insight, and the ability to work with deadlines, goals, and under pressure, which have always been a part of my routine.
+
+🚀 Feel free to check out my projects here on GitHub, linkedin or reach out for a chat!
+
 </h2>
 <br>
-<h1> I'm in a career transition from the administrative area. At the moment I'm learning everything about full stack development and developing projects, using:
+<h1> At the moment I'm learning everything about full stack development and developing projects, using:
   </h1>
 <br>
    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo">
