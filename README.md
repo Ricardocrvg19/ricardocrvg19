@@ -1,46 +1,54 @@
 ![atlz-git-hub](https://raw.githubusercontent.com/Ricardocrvg19/ricardocrvg19/ff76443356ccb963d5081080e907ee57a48c59df/git-atlz-profile.jpeg)
 
+<h1 align="center">👋 Olá, me chamo Ricardo!</h1>
 
-### Hi there 👋
-<h3>
-  My name is Ricardo. I have a background in Business Administration and I'm currently transitioning into a career as a Full Stack Developer.
-</h3>
-<br>
-<h2>
-In 2022, I had my first experience in the tech world when I took part in the domain migration of Perinatal to Rede D’Or. By the end of 2023, I discovered programming and quickly became passionate about the profession.
+<p align="center">
+  <i>Desenvolvedor Full Stack em transição de carreira | Apaixonado por desenvolvimento</i>
+</p>
 
-Since then, I’ve been fully dedicated to learning and growing in the field. Today, I build my own Full Stack projects using React and Node.js, and I’m truly enjoying every step of this journey of creating solutions through code!
+---
 
-I’ve also been applying many skills from my background in Business Administration to my development workflow—such as a strong focus on results, business insight, and the ability to work with deadlines, goals, and under pressure, which have always been a part of my routine.
+## 👨‍💻 Sobre Mim
 
-🚀 Feel free to check out my projects here on GitHub, linkedin or reach out for a chat!
+Com uma sólida formação em **Administração**, estou em plena transição de carreira para me tornar um **Desenvolvedor Full Stack**. Minha jornada no mundo da tecnologia começou em **2022**, com a participação na migração de domínio da Perinatal para a Rede D’Or, um projeto que despertou minha paixão pela área.
 
-</h2>
-<br>
-<h1> At the moment I'm learning everything about full stack development and developing projects, using:
-  </h1>
-<br>
-   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo">
-   <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="css-logo">
-   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="js-logo">
-   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="node-logo">
-   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react-logo">
-   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="ts-logo">
-   <br>
-   <br>
-<h3>Contact wiht me :smiley:</h3>
-<a href=https://web.whatsapp.com/> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="wpp-image"> </a>
-<br>
-<a href=https://www.linkedin.com/in/ricardo-martins-r2730/> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin-image"> </a>
-<br>
-<br>
+Desde o final de **2023**, mergulhei de cabeça na programação e no desenvolvimento de soluções, construindo meus próprios projetos **Full Stack** com foco em **React** e **Node.js**. A cada linha de código, descubro o prazer de transformar ideias em realidade.
 
-![Ricardo GitHub stats](https://github-readme-stats.vercel.app/api?username=ricardocrvg19&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=radical)
+Minha experiência em Administração me trouxe habilidades valiosas para o desenvolvimento, como um forte **foco em resultados**, visão de **negócios**, e a capacidade de trabalhar com **prazos, metas e sob pressão** — competências que sempre fizeram parte da minha rotina e que agora aplico para otimizar meu fluxo de trabalho como desenvolvedor.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ricardocrvg19&layout=donut)](https://github.com/ricardocrvg19/github-readme-stats)
+---
+
+## 🛠️ Tecnologias e Ferramentas
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,nodejs,react,typescript,git,github,vscode" alt="Tech Stack"/>
+  </a>
+</p>
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ricardocrvg19&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=radical" alt="Ricardo GitHub Stats"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardocrvg19&layout=compact&langs_count=7&theme=tokyonight" alt="Top Languages"/>
+  <img height="160em" src="https://streak-stats.demolab.com/?user=ricardocrvg19&theme=radical&hide_border=true" alt="GitHub Streak"/>
+</p>
 
 
+---
 
+### 📫 Conecte-se Comigo
 
-  
+<p align="center">
+  <a href="https://www.linkedin.com/in/ricardo-martins-r2730/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" /></a>
+  <a href="https://github.com/Ricardocrvg19"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" /></a>
+  <a href="https://wa.me/5521971749958" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Badge" /></a>
+  </p>
 
+---
+
+<p align="center">
+  <i>A FÉ na vitória tem que ser INABALÁVEL. 🚀</i>
+</p>
